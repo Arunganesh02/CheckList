@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546737328357",
+    "project_id": "prevmain-3a569",
+    "storage_bucket": "prevmain-3a569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546737328357:android:05b7623bc9c8818ebb040c",
+        "android_client_info": {
+          "package_name": "com.leapgreen.checklist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_esHYa1-acyS1itH1If9Iimk30MqwBWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
